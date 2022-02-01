@@ -1,0 +1,89 @@
+ body{
+     background-color:#F4D6CC ;
+ }
+
+
+
+.jumbotron{
+    border-bottom: 5px solid #5E5C6C;
+    align-content: center;
+    font-size: 45px;
+    color: black;
+    font-family: 'Mukta', sans-serif;
+    background-color: #F4D6CC;
+    padding: 10px;
+}
+
+
+#skills{
+    border-bottom: 2px solid #5E5C6C;
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Mukta', sans-serif;
+}
+
+h3{
+    border-bottom: 2px solid #5E5C6C;
+    font-size: 40px;
+    color: black;
+    font-family: 'Mukta', sans-serif;
+    font-weight: bold;
+}
+
+#git{
+    font-size: 20px;
+}
+
+a:link, a:visited {
+    background-color: #F4D6CC;
+    color: black;
+    text-align: center;
+    border-bottom: 1px #5E5C6C;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: #F4D6CC;
+  }
+
+  #contactbutton{
+      font-size: 40px;
+  }
+ 
+  #contactmodal{
+    background-color: transparent;
+  }
+
+  #modalM{
+    width: auto;
+    margin-right: -10px;
+  }
+
+  #modalheader, #modalfooter {
+    border: 1px solid gray;
+  }
+
+  #modalbody, #modalheader, #modalfooter{
+    background-color: #e3d8d8;
+    font-family: 'Mukta', sans-serif;
+  }
+
+  #phonemail{
+    font-size: 25px;
+    font-family: 'Mukta', sans-serif;
+    margin-left: 15px;
+  }
+
+  #education {
+    padding: 5px
+  }
+
+#cbtn {
+  border: 1px solid gray;
+}
+
+#experience {
+  margin-bottom: 30px;
+}
+
