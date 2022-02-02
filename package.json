@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "1.0.0",
   "description": "resume site",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "lite": "lite-server",
     "start": "npm run lite",
