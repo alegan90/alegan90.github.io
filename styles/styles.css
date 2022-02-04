@@ -15,8 +15,16 @@
 }
 
 
-#skills, #projects{
+#skills{
     border-bottom: 2px solid #5E5C6C;
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Mukta', sans-serif;
+}
+
+#projects{
+  border-bottom: 2px solid #5E5C6C;
     color: black;
     font-size: 40px;
     font-weight: bold;
