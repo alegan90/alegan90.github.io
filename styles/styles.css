@@ -99,10 +99,11 @@ a:link, a:visited {
 
 .card-body{
   background-color: #F4D6CC;
+  border:  0.5px solid #b8a29a;
 }
 
 .card-header{
-  background-color: #e0b5a6;
+  background-color: #f0c6b9;
 }
 
 .btn-link{
