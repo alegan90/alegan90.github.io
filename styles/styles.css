@@ -10,7 +10,7 @@
     font-size: 45px;
     color: black;
     font-family: 'Mukta', sans-serif;
-    background-color: #F4D6CC;
+    background-image: linear-gradient(to right, #f4fbfb, #effaf7, #ecf8f0, #edf5e7, #f1f1df, #f3eeda, #f6ead6, #f9e6d3, #f8e2d1, #f7decf, #f6dacd, #f4d6cc);
     padding: 10px;
 }
 
