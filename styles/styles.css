@@ -1,5 +1,5 @@
  body{
-     background-color:#F4D6CC ;
+     background-color: white;
  }
 
 
@@ -46,7 +46,6 @@ h3{
 }
 
 a:link, a:visited {
-    background-color: #F4D6CC;
     color: black;
     text-align: center;
     border-bottom: 1px antiquewhite;
@@ -98,14 +97,17 @@ a:link, a:visited {
 }
 
 .card-body{
-  background-color: #F4D6CC;
+  background-color: ghostwhite;
   border:  0.5px solid #b8a29a;
 }
 
 .card-header{
-  background-color: #f0c6b9;
+  background-color: gainsboro;
+  color: black;
 }
+
 
 .btn-link{
   color: #71797E;
 }
+
