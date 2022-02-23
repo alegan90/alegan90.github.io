@@ -5,10 +5,10 @@
 
 
 .jumbotron{
-    border-bottom: 5px solid #5E5C6C;
+    border-bottom: 5px solid antiquewhite;
     align-content: center;
     font-size: 45px;
-    color: black;
+    color: #71797E;
     font-family: 'Mukta', sans-serif;
     background-image: linear-gradient(to right, #f4fbfb, #effaf7, #ecf8f0, #edf5e7, #f1f1df, #f3eeda, #f6ead6, #f9e6d3, #f8e2d1, #f7decf, #f6dacd, #f4d6cc);
     padding: 10px;
@@ -16,16 +16,16 @@
 
 
 #skills{
-    border-bottom: 2px solid #5E5C6C;
-    color: black;
+    border-bottom: 2px solid antiquewhite;
+    color: #848884;
     font-size: 40px;
     font-weight: bold;
     font-family: 'Mukta', sans-serif;
 }
 
 #projects{
-  border-bottom: 2px solid #5E5C6C;
-    color: black;
+  border-bottom: 2px solid antiquewhite;
+    color: #848884;
     font-size: 40px;
     font-weight: bold;
     font-family: 'Mukta', sans-serif;
@@ -34,9 +34,9 @@
 
 
 h3{
-    border-bottom: 2px solid #5E5C6C;
+    border-bottom: 2px solid antiquewhite;
     font-size: 40px;
-    color: black;
+    color: #848884;
     font-family: 'Mukta', sans-serif;
     font-weight: bold;
 }
@@ -49,7 +49,7 @@ a:link, a:visited {
     background-color: #F4D6CC;
     color: black;
     text-align: center;
-    border-bottom: 1px #5E5C6C;
+    border-bottom: 1px antiquewhite;
     display: inline-block;
   }
   
@@ -107,5 +107,5 @@ a:link, a:visited {
 }
 
 .btn-link{
-  color: black;
+  color: #71797E;
 }
